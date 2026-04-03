@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-i'm currently working with python <br>focused on backend development with django(python)<br>i'm interested in learning GenAI and Devops<br>
+i'm currently developing highly scalable websites using python.<br>focused on backend development with django<br>i'm interested in learning GenAI and Devops<br>
 
 
 ## 🌐 Socials:
