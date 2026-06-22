@@ -110,8 +110,6 @@
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvrajdot26&color=092E20&style=flat-square&label=Profile+Views" alt="profile views"/>
-</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:092E20&height=120&section=footer" width="100%"/>
