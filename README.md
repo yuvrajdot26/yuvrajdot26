@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:092E20,100:3670A0&height=200&section=header&text=Hi%20there,%20I'm%20Yuvraj%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
@@ -9,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400" alt="hi wave gif"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 </p>
+
 
 <p align="center">
   <a href="#-about-me"><img src="https://img.shields.io/badge/About-092E20?style=for-the-badge"/></a>
@@ -38,12 +40,10 @@
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
+
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="coding gif"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800" alt="coding gif"/>
 </p>
 
 ---
@@ -66,9 +66,7 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" height="180"/>
-</p>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -86,13 +84,15 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
+
+
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yuvrajdot26&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yuvrajdot26&theme=dark&hide_border=false" width="48%"/>
+  
 </p>
 
 <p align="center">
@@ -105,12 +105,13 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500" alt="thank you gif"/>
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuvrajdot26&color=092E20&style=flat-square&label=Profile+Views" alt="profile views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:092E20&height=120&section=footer" width="100%"/> GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3670A0,100:092E20&height=120&section=footer" width="100%"/>
